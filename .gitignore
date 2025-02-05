@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+*.iml
+target/
+mvnw
+mvnw.cmd
+.mvn/
+.project
+.classpath
+.settings/
+*.log
+HELP.md
+*.class
+*.tmp
+Thumbs.db
